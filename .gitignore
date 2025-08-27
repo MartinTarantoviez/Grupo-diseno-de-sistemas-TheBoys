@@ -1,0 +1,48 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# IntelliJ / IDEA
+.idea/
+*.iml
+
+# Salidas de build
+out/
+target/
+build/
+
+# Herramientas de build (por si en el futuro)
+.gradle/
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Archivos del SO
+Thumbs.db
+Desktop.ini
+.DS_Store
