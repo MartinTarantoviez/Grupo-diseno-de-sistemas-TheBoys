@@ -1,0 +1,8 @@
+
+
+
+public enum Mineral {
+
+    NITROGENO, FOSFORO, AZUFRE, POTASIO, CALCIO, MAGNESIO, HIERRO
+}
+
